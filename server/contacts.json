@@ -1,0 +1,50 @@
+[
+  {
+    "id": {
+      "~standard": {
+        "vendor": "zod",
+        "version": 1
+      },
+      "def": {
+        "type": "string",
+        "format": "uuid",
+        "check": "string_format",
+        "abort": false,
+        "version": "v4",
+        "pattern": {}
+      },
+      "type": "string",
+      "format": "uuid",
+      "minLength": null,
+      "maxLength": null
+    },
+    "name": "kaushal",
+    "phone": "8949140757",
+    "email": "kkdev@gmail.com",
+    "bookmark": true
+  },
+  {
+    "id": {
+      "~standard": {
+        "vendor": "zod",
+        "version": 1
+      },
+      "def": {
+        "type": "string",
+        "format": "uuid",
+        "check": "string_format",
+        "abort": false,
+        "version": "v4",
+        "pattern": {}
+      },
+      "type": "string",
+      "format": "uuid",
+      "minLength": null,
+      "maxLength": null
+    },
+    "name": "kaushal",
+    "phone": "8949140757",
+    "email": "kkdev@gmail.com",
+    "bookmark": true
+  }
+]
